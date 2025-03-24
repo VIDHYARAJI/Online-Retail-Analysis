@@ -4,12 +4,10 @@
 
 This project focuses on analyzing retail data using Python libraries such as **pandas**, **numpy**, **matplotlib**, and others. It encompasses various processes like data preprocessing, cleaning, exploratory data analysis, trend analysis, RFM analysis, and customer churn analysis, along with insightful visualizations.
 
----
 
 ## About the Project
 This project involves analyzing an online retail dataset to extract insights into customer behavior, sales trends, and product performance. The analysis includes data cleaning, statistical views, and interactive visualizations to explore and understand the dataset better.
 
----
 
 ## Key Features
 - Preprocessing and cleaning of retail data.
@@ -19,7 +17,6 @@ This project involves analyzing an online retail dataset to extract insights int
 - Customer churn analysis and distribution visualization.
 - Generation of insightful visualizations like bar charts, line graphs, histogram and more.
 
----
 
 ## Technologies Used
 - **Python Libraries**: pandas, numpy, matplotlib, fireducks
@@ -27,7 +24,6 @@ This project involves analyzing an online retail dataset to extract insights int
 - **IDE/Editor**: Any Python-compatible editor
 - **Visualization**: matplotlib, pandas built-in graphing
 
----
 
 ## Dataset Details
 - **Source**: Online retail dataset downloaded as a zip file.
@@ -42,7 +38,6 @@ This project involves analyzing an online retail dataset to extract insights int
   - CustomerID
   - Country
 
----
 
 ## Project Workflow
 1. **Data Preprocessing**:
@@ -61,7 +56,6 @@ This project involves analyzing an online retail dataset to extract insights int
    - Created a `TotalPrice` column (`Quantity` × `UnitPrice`).
    - Conducted month-wise total price analysis.
 
----
 
 ## Insights & Visualizations
 - **Month-wise Total Price Analysis**: 
@@ -73,7 +67,6 @@ This project involves analyzing an online retail dataset to extract insights int
 - **Top 5 Customers and Products**:
   - Analyzed and displayed.
 
----
 
 ## RFM Analysis and Customer Segmentation
 - **RFM Analysis**:
@@ -81,14 +74,12 @@ This project involves analyzing an online retail dataset to extract insights int
 - **Customer Segmentation**:
   - Segregated customers into segments for targeted analysis.
 
----
 
 ## Customer Churn Analysis
 - **Churn Analysis**:
   - Identified customers who did not purchase for more than 90 days.
   - Visualized churn distribution graphically.
 
----
 
 ## How to Run the Project
 1. Clone the repository.
